@@ -10,7 +10,7 @@ class BandInput extends Component {
     return(
       <div>
         <form>
-          <input type="text" />
+          <input type="text" name="name"/>
           <input type="submit" />
         </form>
       </div>
