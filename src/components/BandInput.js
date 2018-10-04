@@ -5,7 +5,7 @@ class BandInput extends Component {
   state = {
     text: ''
   }
-  
+
   render() {
     return(
       <div>
