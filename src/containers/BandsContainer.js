@@ -12,4 +12,4 @@ class BandsContainer extends Component {
   }
 }
 
-export default BandsContainer
+export default connect()(BandsContainer)
